@@ -1,0 +1,31 @@
+$animation-speed: 200ms;
+.header {
+    padding: 1rem 0 3rem;
+}
+
+.title {
+    color: #000;
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.navList {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+}
+
+.navItem {
+    color: #999;
+    font-size: 0.9rem;
+    margin-right: 1.3rem;
+    text-decoration: none;
+    transition: $animation-speed;
+    &:hover {
+        color: #666;
+    }
+}
+
+.activeNavItem {
+    color: #333;
+}

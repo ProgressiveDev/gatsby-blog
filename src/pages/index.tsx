@@ -1,8 +1,8 @@
-import React from "react"
-import { Link } from "gatsby"
-import Footer from "../components/footer"
-import Header from "../components/header"
-import Layout from "../components/layout"
+import React from "react";
+import { Link } from "gatsby";
+import Footer from "../components/footer";
+import Header from "../components/header";
+import Layout from "../components/layout";
 
 const Index: React.FC = () => {
   return (
@@ -15,4 +15,4 @@ const Index: React.FC = () => {
   )
 }
 
-export default Index
+export default Index;
