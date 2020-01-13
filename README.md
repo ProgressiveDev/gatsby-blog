@@ -5,16 +5,17 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's typescript starter with about, blog, contact and index pages.
+  Gatsby's typescript project with about, blog, posts, contact and index pages.
 </h1>
 
-This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+This project ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 It includes following pages:
 - Index
 - Contact
 - Blog
 - About
+- Blog posts
 
 Components:
 - Header
